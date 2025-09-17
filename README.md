@@ -70,5 +70,3 @@ A granular, detailed view of the loan data for deep dive analysis.
 - **Data Storytelling:** Translated complex data into clear visual narratives to drive business insights.
 
 ---
-
-## 📁 Repository Structure
