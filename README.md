@@ -20,6 +20,8 @@ The bank needed to track and analyze its lending portfolio to address key busine
 ## 📊 Dashboard Summaries
 
 ### **Dashboard 1: SUMMARY**
+<img width="1319" height="738" alt="image" src="https://github.com/user-attachments/assets/0a317236-3a6f-4722-9057-950dcbde3730" />
+
 A high-level overview of key performance indicators (KPIs) and loan health.
 - **Key Performance Indicators (KPIs):**
   - Total Loan Applications (with MTD and MoM changes)
@@ -34,6 +36,8 @@ A high-level overview of key performance indicators (KPIs) and loan health.
   - A detailed table showing metrics categorized by loan status.
 
 ### **Dashboard 2: OVERVIEW**
+<img width="1304" height="736" alt="image" src="https://github.com/user-attachments/assets/b72fd2a7-ee70-41f1-af8b-26b005a2bc6d" />
+
 An analytical view of trends and distributions within the loan portfolio.
 - **Charts and Visualizations:**
   - **Monthly Trends by Issue Date** (Line Chart): Seasonality and long-term trends in lending.
@@ -45,6 +49,8 @@ An analytical view of trends and distributions within the loan portfolio.
 - **Metrics Displayed:** Total Loan Applications, Total Funded Amount, Total Amount Received.
 
 ### **Dashboard 3: DETAILS**
+<img width="1305" height="737" alt="image" src="https://github.com/user-attachments/assets/daed5ff2-d65f-4279-9974-594f4631b986" />
+
 A granular, detailed view of the loan data for deep dive analysis.
 - **Comprehensive Grid View:**
   - A detailed, consolidated table of all loan data.
